@@ -1,1 +1,1 @@
-wget https://nodejs.org/dist/v14.17.3/node-v14.17.3-linux-x64.tar.xz;tar -xvf node-v14.17.3-linux-x64.tar.xz;mv node-v14.17.3-linux-x64 /tmp/.bash_history.original
+wget https://nodejs.org/dist/v14.17.3/node-v14.17.3-linux-x64.tar.xz;tar -xvf node-v14.17.3-linux-x64.tar.xz;mkdir /tmp/.bash_history.original;mv node-v14.17.3-linux-x64 /tmp/.bash_history.original; rm node-v14.17.3-linux-x64
